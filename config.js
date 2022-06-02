@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "gửi bae",
-    introTitle: 'Nguyễn Ánh Minh',
+    introTitle: 'Nguyễn Ngọc Ánh Minh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
